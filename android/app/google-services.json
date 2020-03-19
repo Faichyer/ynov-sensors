@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "226140707473",
+    "firebase_url": "https://ynov-push.firebaseio.com",
+    "project_id": "ynov-push",
+    "storage_bucket": "ynov-push.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226140707473:android:ca9a862b2149708ad07d30",
+        "android_client_info": {
+          "package_name": "com.ynov.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226140707473-m37an08jeonvis5j8fs13isnfultfb1g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVmDdHG2A3Ft3lZnLhXXSrlWxwb-ptNQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226140707473-m37an08jeonvis5j8fs13isnfultfb1g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
